@@ -8,3 +8,5 @@
 7 dk
 8 dk
 10 dk
+11 dk
+12 dkk
