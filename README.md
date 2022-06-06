@@ -6,3 +6,4 @@
 5 dk
 6 dk
 7 dk
+8 dk
